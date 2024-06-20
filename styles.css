@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+
+    font-family: Arial;
+
+    box-sizing: border-box;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+body p {
+    font-weight: 900;
+}
+
+button {
+    background-color: #333;
+    color: white;
+
+    padding: 10px;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
